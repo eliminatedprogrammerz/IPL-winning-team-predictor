@@ -1,4 +1,4 @@
-Presenting you an AI that can predict who will win the IPL match which you gave!
+Presenting you an AI that can predict who will win the IPL match which you gave! sometimes correctly
 In this, RandomForest ML algorithm is used!
 
 note: DON'T EVEN DARE TO USE IT FOR G*MBLING OTHERWISE, I'LL TELL YOUR MOTHER THAT YOU ARE A G*MBLER!
